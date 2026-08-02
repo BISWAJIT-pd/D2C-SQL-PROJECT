@@ -49,7 +49,6 @@ The company has customer data but lacks a structured understanding of:
 ## Tools Used
 
 * SQL (MySQL)
-* Python (Pandas, NumPy, Matplotlib,Seaborn)
 * Power BI
 
 ## Project Files
