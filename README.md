@@ -1,7 +1,6 @@
 # 🛍️ D2C Fashion Brand Analytics
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-yellow)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-green)
 
 ## 📌 Project Overview
@@ -10,7 +9,6 @@ A business intelligence project focused on understanding customer behavior, rete
 
 ### 🔧 Tech Stack
 - SQL (MySQL)
-- Python (Pandas, NumPy, Matplotlib)
 - Power BI
 
 ### 📊 Key Analysis
